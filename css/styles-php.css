@@ -1,0 +1,20 @@
+body{
+    background-color: #e8fff0;
+}
+
+#ok{
+    text-decoration: none;
+}
+
+body h1{
+    color: #0b6704;
+}
+
+body a{
+    text-decoration: none;
+    color: #e6bc53;
+}
+
+body a:hover{
+    color: #44c73a;
+}
